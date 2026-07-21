@@ -1,0 +1,1 @@
+package br.com.designpatterns.strategy; public class PixPayment implements PaymentStrategy{public String pay(double v){return "PIX "+v;}}

@@ -1,0 +1,1 @@
+package br.com.designpatterns.strategy; public class CreditCardPayment implements PaymentStrategy{public String pay(double v){return "CARD "+v;}}

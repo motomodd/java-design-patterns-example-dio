@@ -1,0 +1,1 @@
+package br.com.designpatterns.observer; public interface Subject{void add(Observer o);void notifyAllObservers(String n);}

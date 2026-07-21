@@ -1,0 +1,1 @@
+package br.com.designpatterns.observer; public interface Observer{void update(String n);}

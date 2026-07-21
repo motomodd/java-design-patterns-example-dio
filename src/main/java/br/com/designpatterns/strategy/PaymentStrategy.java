@@ -1,0 +1,1 @@
+package br.com.designpatterns.strategy; public interface PaymentStrategy{String pay(double v);}
